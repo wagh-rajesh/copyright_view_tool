@@ -20,7 +20,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+CopyrightViewTool::Renderer.copyright "Rajesh Wagh", "All rights reserved."
+```
 
 ## Development
 
